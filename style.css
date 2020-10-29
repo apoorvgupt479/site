@@ -1,0 +1,28 @@
+.carousel-inner > .item > img{
+margin:auto;
+width:70%
+}
+
+.carousel-inner > .item > .carousel-caption > h3{
+color: #ff0000;
+}
+
+.carousel-inner > .item > .carousel-caption > p{
+color: #000000;
+}
+
+.header > img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.indexing > a{
+display: flex;
+justify-content: right;
+padding-right: 5%;
+margin-bottom: 10px;
+margin-left: 80%;
+border-left: 6px solid red;
+background-color: lightgreen;
+}
